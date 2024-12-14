@@ -8,7 +8,7 @@ A Computer Science student passionate about building impactful software and expl
 - Tools: Git
 
 ## 🌟 Projects
-- **[Object Detection](GitHub/Demo Link::https://github.com/dilleswari1234/Object-Detection-using-Single-Camera):** Short description of the project.
+- **[Object Detection](https://github.com/dilleswari1234/Object-Detection-using-Single-Camera):** Short description of the project.
   - Key Features: Feature 1, Feature 2
 - **[Project Name](GitHub/Demo Link):** Short description of the project.
   - Key Features: Feature 1, Feature 2
